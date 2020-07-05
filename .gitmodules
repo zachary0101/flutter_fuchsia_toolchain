@@ -1,6 +1,6 @@
 [submodule "fuchsia-cpp-gn-sdk"]
 	path = fuchsia-cpp-gn-sdk
-	url = https://fuchsia.googlesource.com/samples
+	url = https://github.com/zachary0101/fuchsia-sample.git
 	branch = master
 	fetchRecurseSubmodules = true
 [submodule "flutter"]
